@@ -11,7 +11,7 @@ Dependencies to install before running
 How to run inside LXC
 =====================
 
-ipython notebook --ip 0.0.0.0 --no-browser --pylab=inline
+    ipython notebook --ip 0.0.0.0 --no-browser --pylab=inline
 
 NOTE: Do *NOT* run this on your own machine using --ip 0.0.0.0 since
 that will expose your machine to security vulnerabilities. Only use
