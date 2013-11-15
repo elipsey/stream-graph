@@ -1,4 +1,4 @@
-stream-graph
+streamgraph
 ============
 
 accept time series of stream gauge images and generate hydrograph
